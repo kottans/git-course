@@ -62,7 +62,7 @@ Git commands: `fetch`
    - Add Commits To a Repo
    - Tagging, Branching, Merging
    - Undoing Changes
-2. Complete following levels at [Learn_git_Branching](https://learngitbranching.js.org/)
+2. Complete following levels at [Learn Git Branching](https://learngitbranching.js.org/)
    - Main: Introduction Section
    - Remotes: Push & Pull -- Git Remotes
 3. Markdown is a simple syntax to create nicely formatted 
