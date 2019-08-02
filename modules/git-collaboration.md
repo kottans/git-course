@@ -12,6 +12,10 @@
 - [Targets](#targets)
   - [Absolute minimum](#absolute-minimum)
   - [Must know](#must-know)
+- [Learn](#learn)
+  - [Extra materials](#extra-materials)
+- [Do](#do)
+- [When completed](#when-completed)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->

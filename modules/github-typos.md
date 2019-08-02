@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Typos Collection](#typos-collection)
+  - [History of Python](#history-of-python)
+    - [Early history](#early-history)
+    - [Version 1](#version-1)
+      - [BeOpen](#beopen)
+    - [Version 2](#version-2)
+    - [Version 3](#version-3)
+      - [Compatibility[[edit][89]]](#compatibilityedit89)
+      - [Features](#features)
+    - [Version release dates](#version-release-dates)
+    - [References](#references)
+    - [External links](#external-links)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Typos Collection
 
 This file below is full of typos. It is created specifically

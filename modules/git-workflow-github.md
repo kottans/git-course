@@ -12,9 +12,20 @@ and tasks per se are tiny.
 ## Table of Contents
 
 - [Why mastering this?](#why-mastering-this)
+- [Intro to problem solving](#intro-to-problem-solving)
 - [Targets](#targets)
-  - [Absolute minimum](#absolute-minimum)
-  - [Must know](#must-know)
+- [Learn and Do](#learn-and-do)
+  - [Issues](#issues)
+  - [Discussion](#discussion)
+  - [Pull request](#pull-request)
+  - [Code review](#code-review)
+  - [Code conflict resolution](#code-conflict-resolution)
+  - [Approve and Merge Pull Request](#approve-and-merge-pull-request)
+  - [Draft pull request](#draft-pull-request)
+  - [Forking](#forking)
+- [When completed](#when-completed)
+- [Extras](#extras)
+  - [Gist](#gist)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
