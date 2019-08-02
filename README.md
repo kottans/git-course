@@ -16,89 +16,61 @@ course and is intended to complement Frontend and Backend courses.
 ## Table of Contents
 
 - [Course structure](#course-structure)
-  - [1. Linux CLI](#1-linux-cli)
-  - [2. Git Basics](#2-git-basics)
-  - [3. Contributing with Git](#3-contributing-with-git)
-  - [4. Git workflow and GitHub](#4-git-workflow-and-github)
-  - [5. Git workshop](#5-git-workshop)
+- [Learning hints](#learning-hints)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
 
 ## Course structure
 
-### 1. Linux CLI
+Below is brief description of modules. You may skip any of the
+modules whenever you feel confident with your skills a module
+would help to master.
 
-As a developer you will need to employ certain basic Linux CLI
-skills in navigating across file system, manipulating files,
-executing scripts.
+However, check the module contents and extra materials offered
+therein before you decide to skip. You still may find something
+new or useful.
 
-If you feel confident in the above you may skip this module.
-Check the module contents and extra materials offered therein 
+1. **Linux CLI** - basic skills working with Linux command line
+   interface every developer needs to master
+1. **Git Basics** - basic Git skills: maintain your code portfolio
+1. **Contributing with Git** - working with a shared code base
+1. **Git workflow and GitHub** - collaborate with others
+   efficiently minimizing code conflicts and delivering
+   working code
+1. **Git workshop** - have a hands-on experience in
+   collaborating with other developers, practising
+   most common cases
+   
+You may skip any of the modules if you feel confident that 
+you know well what is described in the module's **Targets**
+section.
+
+Check the module contents and extra materials 
 before you decide to skip. You may find something new or useful.
 
-The following modules will require CLI skills as well.
+## Learning hints
 
-### 2. Git Basics
+<details><summary>Issues with English? Click to unfold</summary>
+<p>
 
-Having this module passed you will have mastered some basic git skills.
+You may resort to subtitles/closed captions and
+to auto-translated subtitles in particular if you feel
+it would help you to master the video course better.
 
-You may think of it not as of only a starting set of git skills 
-required for a developer to have but also as of opportunity
-to start and populate your developer's portfolio and
-back up system.
+![youtube-CC-guide](./img/youtube-captions.png)
 
-If you feel confident you know well what the following commands
-do you may skip this module:
-`init, clone, add, commit, checkout, branch, merge, push, pull`
+Employ Google Translate for textual materials.
 
-Check the module contents and extra materials offered therein 
-before you decide to skip. You may find something new or useful.
+</p>
+</details>
 
-### 3. Contributing with Git
+If you find some topic not sufficiently disclosed in any
+materials, just, let us know.
+   
+---
 
-Having this module passed you will have mastered some more
-git skills that will allow you to collaborate with other
-developers, which is usual when working in a team and
-sharing code base.
-
-If you feel confident you know well how to fork repo,
-submit a pull request, keep a repo in sync with contributions
-from other developers you may skip this module.
-
-Check the module contents and extra materials offered therein 
-before you decide to skip. You may find something new or useful.
-
-### 4. Git workflow and GitHub
-
-Git is not only about storing versioned code but is also
-about communication. There are some communication patterns
-to follow that will make interaction with your peers and
-superiors easier and better structured, i.e. more efficient.
-
-The collaboration flow highlighted in this module comprises:
-- keep you local code base in sync with shared remote
-- work in a topic branch
-- open a pull request to submit code changes
-- have code reviewed, change requests served and/or approved
-- merge into development or master branch
-
-The module is dedicated to learning required skills.
-
-If you feel confident you know well what is all above is about
-you may skip this module.
-
-Check the module contents and extra materials offered therein 
-before you decide to skip. You may find something new or useful.
-
-### 5. Git workshop
-
-The workshop is held offline and aimed at putting hands on
-practical work to support participants' learnings.
-
-Participants are required to already have certain skills mastered.
-Linux CLI are and Basic Git skills are minimally required skills
-to have to enroll in the workshop.
+Here we go! [Start with Linux CLI](./modules/linux-cli.md)
 
 ---
 
