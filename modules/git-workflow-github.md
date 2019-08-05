@@ -309,7 +309,7 @@ to make you well prepared. No panics!
 
 **Do**
 
-- Install [GitHub lab tool](https://lab.github.com/install) and watch
+- Install [GitHub lab tool](https://lab.github.com/install?org=githubtraining&course=managing-merge-conflicts) and watch
   a short intro video when offered to Join your first course
 - Pass [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts) -
   a 10 steps tutorial
