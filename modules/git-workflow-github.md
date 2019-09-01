@@ -136,15 +136,15 @@ as it gets interpreted to render a nice document view.
 
 ### Issues
 
-Note that it is good to start issue with a proper verb (like we do for
-commits):
+Note that it is good to start an issue title with a proper verb
+(like we do for commits):
  - `Fix` for a bug
  - `Add` for enhancement or a new feature
  - `Change` for enhancement
  
 Just imagine that someone fixing the issue will create a commit with
-the very same message at your issue title. It will create a strong
-binding.
+the very same message at your issue title. It will establish a strong
+binding between the issue and commit that resolves it.
 
 **Read**
 
@@ -153,27 +153,27 @@ binding.
 
 **Do**
 
-Option 1. You might have noted something not so easy to master or
-comprehend in the past modules. This might be a good source to create
-an issue.
-Let's take this as a need of improvement.
+_Option 1._ You might have noted something not so easy to master or
+comprehend in the past modules. This might be a good source of an idea
+to create an issue on.
+Let's take this as a need for improvement.
 
-Option 2. The course materials may contain a broken link, a typo in
-the text, a http://domain.com/a-very-long-url instead of nicely formatted
-[link](./#). Let's take this for a bug.
+_Option 2._ The course materials may contain a broken link, a typo in
+the text, something like http://domain.com/a-very-long-url instead of
+nicely formatted [link](./#). Let's take this for a bug.
 
-Option 3. Course is really a Work In Progress and misses many modules
+_Option 3._ Course is really a Work In Progress and misses many modules
 to be populated with educational content. Let's take this as a lack of
 a feature.
 
-Option 4. Any other bug, need of improvement or lack of a feature.
+_Option 4._ Any other bug, need of improvement or lack of a feature.
 
 Cannot invent a problem? No problem. Check this 
 [document full of typos](./github-typos.md).
 Or just ask your peers for support and ideas.
 
 Simple issues (like typos) can be resolved with a single commit and
-without a discussion. But let's train on a simple cases to be ready for
+without a discussion. But let's learn on a simple case to be ready for
 more complicated ones.
 
 The **task is** to
@@ -186,14 +186,14 @@ The **task is** to
 Check this [issue #1](https://github.com/kottans/git-course/issues/1)
 for example.
 
-And remember, MarkDown is here to make your issue body easier
+And remember, MarkDown is here to make your issue description easier
 to read.
 
 ### Discussion
 
 **Do**
 
-- Pick an issue that cannot be resolved for it requires
+- Pick an issue that cannot be resolved easily as it requires
   lots of information (e.g. educational materials) or obviously
   incomplete (a suggestion to add a module).
 - Add a comment suggesting how to resolve or complete the issue
@@ -207,11 +207,11 @@ You're done.
 
 Pull request is a device to propose code changes (consider `.md` file
 is some code as well, like HTML), have a spare pair of eyes to look
-at (code review) and approve a good solution.
+at (doing a code review), and approve a good solution.
 
 **Read**
 
-- [Creating an pull request](https://help.github.com/en/articles/creating-a-pull-request)
+- [Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request)
 - [Pull Request Tutorial](https://yangsu.github.io/pull-request-tutorial/)
 
 **Do**
@@ -259,7 +259,7 @@ _Please note, that your PR may not be reviewed quickly._
 - Irrelevant commits somehow became part of the PR?
 - Forgot to create a feature branch?
 
-Seek for help among your peers (e.g. in a chat).
+Seek for the help among your peers (e.g. in a chat).
 Also you may find
 [this guide](https://gist.github.com/OleksiyRudenko/8b3ddb664308de0634b53c525e551d8b)
 helpful when facing irrelevant commits problem.
@@ -270,7 +270,7 @@ Whenever you see `CONTRIBUTING.md` it is worth reading before you
 start contribution to a project.
 
 You may find something useful or interesting in other projects'
-contribuition guidelines.
+contribution guidelines.
 Check this [example 1](https://github.com/kottans/frontend/blob/master/CONTRIBUTING.md),
 and this [example 2](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md).
 
