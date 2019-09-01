@@ -17,12 +17,12 @@ and tasks per se are tiny.
 - [Learn and Do](#learn-and-do)
   - [Issues](#issues)
   - [Discussion](#discussion)
+  - [Forking](#forking)
   - [Pull request](#pull-request)
   - [Code review](#code-review)
   - [Code conflict resolution](#code-conflict-resolution)
   - [Approve and Merge Pull Request](#approve-and-merge-pull-request)
   - [Draft pull request](#draft-pull-request)
-  - [Forking](#forking)
 - [When completed](#when-completed)
 - [Extras](#extras)
   - [Gist](#gist)
@@ -203,6 +203,34 @@ for an example.
 
 You're done.
 
+### Forking
+
+You make a fork of a repo when you
+- do not have rights to push directly to a repo
+- want to work on your own for a longer time
+  without burdening a repo with incomplete code
+- want to develop a Free Open Source Software
+  in a way that doesn't match the project's
+  official roadmap
+  (make sure project's license allows you doing so)
+  
+What is nice with forks is that you can create a Pull Request
+into original repo from your fork's branch!
+
+**NB!** Cloning a repo and just pushing it up to your space
+doesn't create a fork binding and will not enable cross-repositorial
+pull requests.
+
+**Read**
+
+[Forking projects](https://guides.github.com/activities/forking/)
+
+**Do**
+
+[Fork a repo practice](https://help.github.com/en/articles/fork-a-repo)
+
+You need this skill in order to complete the following task.
+
 ### Pull request
 
 Pull request is a device to propose code changes (consider `.md` file
@@ -221,26 +249,32 @@ at (doing a code review), and approve a good solution.
     a feature or an enhancement) and has no an Assignee (that means
     no one takes care of this issue yet)
   - Assign yourself, so others know that someone works with the issue
+- Fork the repo into your own workspace on GitHub
 - Make changes in the code:
   - Clone (if not yet) with `git clone...` or update your local clone
-    `master` of this repo (`git checkout master && git pull`)
+    `master` of the forked repo (`git checkout master && git pull`)
   - **Create a feature branch** with `git checkout -b <new-branch-name>`
     (branch name would give a general idea of the code associated with it)
   - Change or add some code and commit
   - Push your branch to remote with `git push...`
 - Open a Pull Request:
-  - Navigate to the [repo on GitHub](https://github.com/kottans/git-course)
+  - Navigate to the forked repo on GitHub
   - Open a pull request
   - Give your PR short yet descriptive title, so from pull requests list
     one could see what to expect inside a particular PR
   - Describe the targets in the PR body so that readers can understand
     in more details what the PR is about
-  - If your PR resolves an issue just add `Resolves #3` somewhere (`3`
+  - If your PR resolves an issue just add `Resolves #3` somewhere 
+    in the comment (`3`
     is a number of an issue you can see beside its title). GitHub will
     bind your PR to that issue and the issue will get closed
     (as resolved) once your PR is merged.
+- Draw attention
+  - PR created from a fork is bound to the original repo by GitHub,
+    so navigate to the original repo, Pull Requests and open a PR
+    you've opened
   - There is a PR management section on the right side of the PR.
-    Click **Reviewers** and add view assign two or three of your peers.
+    Click **Reviewers** and assign two or three of your peers.
 
 **Alternative**
 
@@ -381,32 +415,6 @@ code, e.g. when you get stuck and need help or an advice.
 **Read**
 
 [Introducing Draft Pull Requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
-
-### Forking
-
-You make a fork of a repo when you
-- do not have rights to push directly to a repo
-- want to work on your own for a longer time
-  without burdening a repo with incomplete code
-- want to develop a Free Open Source Software
-  in a way that doesn't match the project's
-  official roadmap
-  (make sure project's license allows you doing so)
-  
-What is nice with forks is that you can create a Pull Request
-into original repo from your fork's branch!
-
-**NB!** Cloning a repo and just pushing it up to your space
-doesn't create a fork binding and will not enable cross-repositorial
-pull requests.
-
-**Read**
-
-[Forking projects](https://guides.github.com/activities/forking/)
-
-**Do**
-
-[Fork a repo practice](https://help.github.com/en/articles/fork-a-repo)
 
 ## When completed
 
