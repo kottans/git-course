@@ -47,9 +47,8 @@ new or useful.
    working code
    (issues, pull requests, code review, code conflict resolution)
 1. [**Git workshop**](./modules/git-workshop.md) - 
-   have a hands-on experience in
-   collaborating with other developers, practising
-   most common cases
+   have a hands-on experience in collaborating with other developers,
+   practising the most common collaboration cases. Bonus: tips and tricks
 
 ## Learning hints
 
