@@ -365,7 +365,7 @@ you can do it with **Close pull request** button.
 It is important to give a reason for your peers and
 future yourself. Reason shouldn't be extensive, just
 a couple of clear words. Check
-[this](https://github.com/kottans/git-course/pull/2#issuecomment-470503261)
+[this](https://github.com/kottans/git-course/pull/2#issuecomment-526934953)
 out for example.
 
 ### Draft pull request
