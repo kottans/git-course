@@ -96,20 +96,25 @@ cd -
 
 ## Learn
 
+
+
 1. [Learn the Command Line (5 modules)](https://www.codecademy.com/learn/learn-the-command-line)
 
     **Note:** Completion of free content (Interactive Lessons) 
     is the required minimum, but Quizzes and Freeform Projects 
     should also be available via 7-day trial of Codecademy.
-    Do them if you can, it's great practice.
+    Do them if you can, it's a great practice.
 
 1. [Learning the Shell (10 modules)](http://linuxcommand.org/lc3_learning_the_shell.php)
    greatly supplements the Learn the Command Line course offering a deeper
    insight into Linux Shell. Make sure to practise every command from
    the course in your Linux terminal.
+   
+   Need safe environment for this task? Use a 
+   [virtual Linux CLI playground](https://katacoda.com/courses/ubuntu/playground)
 
 Anything is not clear enough or want more practice?
-Take a look at extra materials.
+Dive into the extra materials below.
 
 ### Extra materials
 
@@ -124,8 +129,9 @@ Take a look at extra materials.
 
 ## Practice
 
-Need safe environment? Use a 
-[virtual Linux CLI playground](https://katacoda.com/courses/ubuntu/playground)
+Try doing as much as possible via CLI. Not so convenient as it would be
+using the GUI as you get used to it, but you will find this skill beneficial
+for your further learning and career.
 
 <details><summary>A note for Windows users (CLICK to expand)</summary>
 You may practice Linux CLI on your Windows machine
