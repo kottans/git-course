@@ -11,8 +11,8 @@
 - [Why mastering this?](#why-mastering-this)
 - [Targets](#targets)
   - [Absolute minimum](#absolute-minimum)
-  - [Must know](#must-know)
-- [Learn](#learn)
+  - [Nice to have](#nice-to-have)
+- [Learn and Practise](#learn-and-practise)
   - [Extra materials](#extra-materials)
 - [Practice](#practice)
 
