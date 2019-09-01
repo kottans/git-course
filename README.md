@@ -31,17 +31,25 @@ However, check the module contents and extra materials offered
 therein before you decide to skip. You still may find something
 new or useful.
 
-1. **Linux CLI** - basic skills working with Linux command line
+1. [**Linux CLI**](./modules/linux-cli.md) - 
+   basic skills working with Linux command line
    interface every developer needs to master
-1. **Git Basics** - basic Git skills: maintain your code portfolio
-1. **Contributing with Git** - working with a shared code base
-1. **Git workflow and GitHub** - collaborate with others
+1. [**Git Basics**](./modules/git-basics.md) - 
+   basic Git skills: maintain your code portfolio
+   (`init, clone, add, commit, checkout, branch, merge, push, pull, fetch`)
+1. [**Contributing with Git**](./modules/git-collaboration.md) - 
+   working with a shared code base
+   (remotes, sync up, revert changes, intro to GitHub)
+1. [**Git workflow and GitHub**](./modules/git-workflow-github.md) - 
+   collaborate with others
    efficiently minimizing code conflicts and delivering
    working code
-1. **Git workshop** - have a hands-on experience in
+   (issues, pull requests, code review, code conflict resolution)
+1. [**Git workshop**](./modules/git-workshop.md) - 
+   have a hands-on experience in
    collaborating with other developers, practising
    most common cases
-   
+
 You may skip any of the modules if you feel confident that 
 you know well what is described in the module's **Targets**
 section.

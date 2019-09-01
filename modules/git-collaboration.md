@@ -90,8 +90,9 @@ Where to communicate? In a chat you come here from :)
 
 Proceed to [Git workflow and GitHub](./git-workflow-github.md)
 
-
 ---
+
+[Course contents](../README.md)
 
 [badge-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-git-yellow.svg
 [kottans-git]: https://github.com/kottans/git-course

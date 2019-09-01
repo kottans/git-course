@@ -127,6 +127,8 @@ Proceed to [Contributing with Git](./git-collaboration.md)
 
 ---
 
+[Course contents](../README.md)
+
 [badge-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-git-yellow.svg
 [kottans-git]: https://github.com/kottans/git-course
 

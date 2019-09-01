@@ -145,6 +145,8 @@ Proceed to [Git basics](./git-basics.md)
 
 ---
 
+[Course contents](../README.md)
+
 [badge-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-linux-yellow.svg
 [kottans-git]: https://github.com/kottans/git-course
 
