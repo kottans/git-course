@@ -66,7 +66,9 @@ Employ Google Translate for textual materials.
 </details>
 
 If you find some topic not sufficiently disclosed in any
-materials, just, let us know.
+materials, just let us know by adding
+[an issue](https://github.com/kottans/git-course/issues)
+with a proposal.
    
 ---
 

@@ -25,7 +25,7 @@ As a developer you will need to employ certain basic Linux CLI
 skills in navigating across file system, manipulating files,
 executing scripts.
 
-The following modules on Git will require CLI skills as well.
+The following modules on Git will require Linux CLI skills as well.
 
 ## Targets
 
@@ -83,7 +83,7 @@ Tasks (using command line only):
 * Make a file (script) executable	
 * Execute a command with elevated user privileges	
 
-### Must know
+### Nice to have
 
 Commands/operations:
 ```
@@ -96,12 +96,17 @@ cd -
 
 ## Learn
 
-[Learn the Command Line (5 modules)](https://www.codecademy.com/learn/learn-the-command-line)
+1. [Learn the Command Line (5 modules)](https://www.codecademy.com/learn/learn-the-command-line)
 
-**Note:** Completion of free content (Interactive Lessons) 
-is the required minimum, but Quizzes and Freeform Projects 
-should also be available via 7-day trial of Codecademy.
-Do them if you can, it's great practice.
+    **Note:** Completion of free content (Interactive Lessons) 
+    is the required minimum, but Quizzes and Freeform Projects 
+    should also be available via 7-day trial of Codecademy.
+    Do them if you can, it's great practice.
+
+1. [Learning the Shell (10 modules)](http://linuxcommand.org/lc3_learning_the_shell.php)
+   greatly supplements the Learn the Command Line course offering a deeper
+   insight into Linux Shell. Make sure to practise every command from
+   the course in your Linux terminal.
 
 Anything is not clear enough or want more practice?
 Take a look at extra materials.

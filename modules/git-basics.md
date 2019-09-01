@@ -77,9 +77,9 @@ aspects.
 
 Wonna see what MarkDown syntax is used to design a particular document?
 Navigate to it in the browser
-(e.g. [git-basics.md](https://github.com/py-gang/bootcamp/blob/master/modules/git-basics.md))
+(e.g. [git-basics.md](https://github.com/kottans/git-course/blob/master/modules/git-basics.md))
 and click button **Raw** in the file's top bar. You will see the file's guts
-(e.g. [git-basics.md source](https://raw.githubusercontent.com/py-gang/bootcamp/master/modules/git-basics.md))
+(e.g. [git-basics.md source](https://raw.githubusercontent.com/kottans/git-course/master/modules/git-basics.md))
 
 ### Extra materials
 

@@ -136,13 +136,15 @@ as it gets interpreted to render a nice document view.
 
 ### Issues
 
-Note that it is good to start issue with a proper verb (like we do with commits):
+Note that it is good to start issue with a proper verb (like we do for
+commits):
  - `Fix` for a bug
  - `Add` for enhancement or a new feature
  - `Change` for enhancement
  
-Just imagine that someone fixing the issue will create a commit with the very
-same message at your issue title. It will create a strong binding.
+Just imagine that someone fixing the issue will create a commit with
+the very same message at your issue title. It will create a strong
+binding.
 
 **Read**
 
@@ -151,16 +153,18 @@ same message at your issue title. It will create a strong binding.
 
 **Do**
 
-Option 1. You might have noted something not so easy to master or comprehend
-in the past modules. This might be a good source to create an issue.
+Option 1. You might have noted something not so easy to master or
+comprehend in the past modules. This might be a good source to create
+an issue.
 Let's take this as a need of improvement.
 
-Option 2. The course materials may contain a broken link, a typo in the text,
-a http://domain.com/a-very-long-url instead of nicely formatted
+Option 2. The course materials may contain a broken link, a typo in
+the text, a http://domain.com/a-very-long-url instead of nicely formatted
 [link](./#). Let's take this for a bug.
 
 Option 3. Course is really a Work In Progress and misses many modules
-to be populated with educational content. Let's take this as a lack of a feature.
+to be populated with educational content. Let's take this as a lack of
+a feature.
 
 Option 4. Any other bug, need of improvement or lack of a feature.
 
@@ -168,20 +172,22 @@ Cannot invent a problem? No problem. Check this
 [document full of typos](./github-typos.md).
 Or just ask your peers for support and ideas.
 
-Simple issues (like typos) can be resolved with a single commit and without
-a discussion. But let's train on a simple cases to be ready for
+Simple issues (like typos) can be resolved with a single commit and
+without a discussion. But let's train on a simple cases to be ready for
 more complicated ones.
 
 The **task is** to
-- open (create) an issue [here](https://github.com/py-gang/bootcamp/issues/)
+- open (create) an issue [here](https://github.com/kottans/git-course/issues/)
 - give it an informative title
 - describe the issue
 - add a label (e.g. `bug` or `enhancement`)
 - submit
 
-Check this [issue #1](https://github.com/py-gang/bootcamp/issues/1) for example.
+Check this [issue #1](https://github.com/kottans/git-course/issues/1)
+for example.
 
-And remember, MarkDown is here to make your issue body easier to read.
+And remember, MarkDown is here to make your issue body easier
+to read.
 
 ### Discussion
 
@@ -192,7 +198,8 @@ And remember, MarkDown is here to make your issue body easier to read.
   incomplete (a suggestion to add a module).
 - Add a comment suggesting how to resolve or complete the issue
 
-Check this [issue #1](https://github.com/py-gang/bootcamp/issues/1) for an example.
+Check this [issue #1](https://github.com/kottans/git-course/issues/1)
+for an example.
 
 You're done.
 
@@ -210,35 +217,36 @@ at (code review) and approve a good solution.
 **Do**
 
 - Choose an issue to resolve:
-  - Pick an issue that is good to be resolved or implemented (a bug, a feature
-    or an enhancement) and has no an Assignee (that means no one takes care
-    of this issue)
+  - Pick an issue that is good to be resolved or implemented (a bug,
+    a feature or an enhancement) and has no an Assignee (that means
+    no one takes care of this issue yet)
   - Assign yourself, so others know that someone works with the issue
 - Make changes in the code:
-  - Clone (if not yet) with `git clone...` or update your local clone `master` 
-    of this repo (`git checkout master && git pull`)
-  - **Create a feature branch** with `git checkout -b <new-branch-name>` (branch
-    name would give a general idea of the code associated with it)
+  - Clone (if not yet) with `git clone...` or update your local clone
+    `master` of this repo (`git checkout master && git pull`)
+  - **Create a feature branch** with `git checkout -b <new-branch-name>`
+    (branch name would give a general idea of the code associated with it)
   - Change or add some code and commit
   - Push your branch to remote with `git push...`
 - Open a Pull Request:
-  - Navigate to the [repo on GitHub](https://github.com/py-gang/bootcamp)
+  - Navigate to the [repo on GitHub](https://github.com/kottans/git-course)
   - Open a pull request
   - Give your PR short yet descriptive title, so from pull requests list
     one could see what to expect inside a particular PR
-  - Describe the targets in the PR body so that readers can understand in
-    more details what the PR is about
-  - If your PR resolves an issue just add `Resolves #3` somewhere (`3` is
-    a number of an issue you can see beside its title). GitHub will
-    bind your PR to that issue and the issue will get closed (as resolved)
-    once your PR is merged.
+  - Describe the targets in the PR body so that readers can understand
+    in more details what the PR is about
+  - If your PR resolves an issue just add `Resolves #3` somewhere (`3`
+    is a number of an issue you can see beside its title). GitHub will
+    bind your PR to that issue and the issue will get closed
+    (as resolved) once your PR is merged.
   - There is a PR management section on the right side of the PR.
     Click **Reviewers** and add view assign two or three of your peers.
 
 **Alternative**
 
 Send a pull-request to [Kottans/mock-repo][mock-repo] proposing a change.
-It could be anything, really. If you have found a typo in `README.md` - great!
+It could be anything, really. If you have found a typo in `README.md` -
+great!
 Take care to give your PR a meaningful name and description.
 Please, do not suggest changes via GitHub Web UI, the target
 is to emulate code contribution flow using `branch-commit-push`
@@ -256,12 +264,13 @@ Also you may find
 [this guide](https://gist.github.com/OleksiyRudenko/8b3ddb664308de0634b53c525e551d8b)
 helpful when facing irrelevant commits problem.
 
-Pull Requests are contributions. Many projects contain contribution guidelines,
-many guidelines are quite applicable across projects.
+Pull Requests are contributions. Many projects contain contribution
+guidelines, many guidelines are quite applicable across projects.
 Whenever you see `CONTRIBUTING.md` it is worth reading before you
 start contribution to a project.
 
-You may find something useful or interesting in other projects' contribuition guidelines.
+You may find something useful or interesting in other projects'
+contribuition guidelines.
 Check this [example 1](https://github.com/kottans/frontend/blob/master/CONTRIBUTING.md),
 and this [example 2](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md).
 
@@ -284,7 +293,7 @@ or a series of comments to the code with a Change Request.
 
 **Do**
 
-- Check [pull requests](https://github.com/py-gang/bootcamp/pulls) and
+- Check [pull requests](https://github.com/kottans/git-course/pulls) and
   find a pull request you are assigned to conducts a code review to
   or a PR with code reviewers assigned. You may assign yourserlf
   as a code reviewer
@@ -292,7 +301,8 @@ or a series of comments to the code with a Change Request.
 - Conduct a code review
 - It is good to add a couple of positive comments in the code
   to encourage the author before you just post `LGTM` and approve
-- Feel free requesting changes (e.g. fix a typo or formatting, add a link etc)
+- Feel free requesting changes (e.g. fix a typo or formatting, add a
+  link etc)
 
 ### Code conflict resolution
 
@@ -305,7 +315,8 @@ to make you well prepared. No panics!
 - [Resolving a merge conflict using the command line](https://help.github.com/en/articles/resolving-a-merge-conflict-using-the-command-line)
 - [Resolving a merge conflict on GitHub](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github)
 
-**NB!** Resolving a conflict using command line is a preferred method in many cases.
+**NB!** Resolving a conflict using command line is a preferred method
+in many cases.
 
 **Do**
 
@@ -334,13 +345,15 @@ Opt for squash or rebase as these keep the git history linear.
 
 - Choose **Squash and merge** or **Rebase and merge** option instead of
   **Merge pull request**
-- You will be offered a commit message draft. Edit it so clearly describes
-  the changes introduced with PR. In the next input field
-  (_Add an optional extended description_ or suggested list of changes) make sure
-  that the last line contains words e.g.
-  `Resolves #3` to make GitHub bind this PR with a relevant issue by issue number
+- You will be offered a commit message draft. Edit it so clearly
+  describes the changes introduced with PR. In the next input field
+  (_Add an optional extended description_ or suggested list of changes) 
+  make sure that the last line contains words e.g.
+  `Resolves #3` to make GitHub bind this PR with a relevant issue by
+  issue number
 - Click **Confirm...*
-- Once merged click a button to delete current branch - you do not need it anymore
+- Once merged click a button to delete current branch - you do not need
+  it anymore
 
 You are done! 
 
@@ -352,7 +365,7 @@ you can do it with **Close pull request** button.
 It is important to give a reason for your peers and
 future yourself. Reason shouldn't be extensive, just
 a couple of clear words. Check
-[this](https://github.com/py-gang/bootcamp/pull/2#issuecomment-470503261)
+[this](https://github.com/kottans/git-course/pull/2#issuecomment-470503261)
 out for example.
 
 ### Draft pull request
@@ -414,8 +427,8 @@ into any.
 :gift: On GitHub you get subscribed for notifications when
 e.g. a new repo is created in your organization.
 You can unsubscribe from notifications on selected repos
-[here](https://github.com/watching) or even
-from [a particular organization](https://gist.github.com/OleksiyRudenko/00be70f0915aea7affb18ab8c6e7c8c8).
+[here](https://github.com/watching) or even from
+[a particular organization](https://gist.github.com/OleksiyRudenko/00be70f0915aea7affb18ab8c6e7c8c8).
 This would help to see only notifications you want.
 
 Meanwhile you may want to become a 
@@ -444,7 +457,7 @@ a project and need no much collaboration via e.g. Pull Requests.
 
 - Navigate to [gists](https://gist.github.com/)
 - Create a simple gist named **Test** with a single `test.md` file in it
-- Type a couple of MartkDown lines and save
+- Type a couple of MarkDown lines and save
 - You may also delete this test gist
 
 ---

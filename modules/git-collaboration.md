@@ -53,7 +53,6 @@ the list below.
    - Working with remotes
    - Working on another developer's repo
    - Staying in Sync With A Remote Repo
-1. Pass Lesson 3 from [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 1. Complete following levels at https://learngitbranching.js.org/
    - Main: Ramping Up
    - Remotes: To Origin And Beyond
