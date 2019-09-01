@@ -64,10 +64,10 @@ modules.
 
 Some of the items above are covered by the Udacity Version Control with Git
 course from [Git Basics module](./git-basics.md):
-[Mac/Linux Setup](https://classroom.udacity.com/courses/ud123/lessons/1b369991-f1ca-4d6a-ba8f-e8318d76322f/concepts/63a6f935-dea7-43c2-aaa3-61deea5070c8),
-[Windows Setup](https://classroom.udacity.com/courses/ud123/lessons/1b369991-f1ca-4d6a-ba8f-e8318d76322f/concepts/8a5af628-7a18-49cf-bbc8-02691762f862).
+[**Mac/Linux Setup**](https://classroom.udacity.com/courses/ud123/lessons/1b369991-f1ca-4d6a-ba8f-e8318d76322f/concepts/63a6f935-dea7-43c2-aaa3-61deea5070c8),
+[**Windows Setup**](https://classroom.udacity.com/courses/ud123/lessons/1b369991-f1ca-4d6a-ba8f-e8318d76322f/concepts/8a5af628-7a18-49cf-bbc8-02691762f862).
 
-[Developer's Environment: Git](https://github.com/OleksiyRudenko/dev-env-git)
+[**Developer's Environment: Git**](https://github.com/OleksiyRudenko/dev-env-git)
 project offers a comprehensive guidance to setting up comfortable
 developer's Git environment.
 
