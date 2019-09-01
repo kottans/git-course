@@ -4,12 +4,12 @@
 
 # Git Course
 
-This course is aimed at helping beginners in gaining basics proficiency
-with git and Linux CLI (at capacity sufficient to support git operations).
+This course is aimed at helping beginners in gaining basic yet minimally
+required proficiency with Git and Linux CLI.
 
 The course is based on the materials from
 [kottans/frontend](https://github.com/kottans/frontend/blob/master/contents.md)
-course and is intended to complement Frontend and Backend courses.
+course and is intended to complement any courses for beginners.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -25,7 +25,8 @@ course and is intended to complement Frontend and Backend courses.
 
 Below is brief description of modules. You may skip any of the
 modules whenever you feel confident with your skills a module
-would help to master.
+offers to master (as described in each module's **Targets**
+section).
 
 However, check the module contents and extra materials offered
 therein before you decide to skip. You still may find something
@@ -50,13 +51,6 @@ new or useful.
    collaborating with other developers, practising
    most common cases
 
-You may skip any of the modules if you feel confident that 
-you know well what is described in the module's **Targets**
-section.
-
-Check the module contents and extra materials 
-before you decide to skip. You may find something new or useful.
-
 ## Learning hints
 
 <details><summary>Issues with English? Click to unfold</summary>
@@ -73,10 +67,8 @@ Employ Google Translate for textual materials.
 </p>
 </details>
 
-If you find some topic not sufficiently disclosed in any
-materials, just let us know by adding
-[an issue](https://github.com/kottans/git-course/issues)
-with a proposal.
+If you find any topic not sufficiently disclosed just let us know by adding
+[an issue](https://github.com/kottans/git-course/issues) with a proposal.
    
 ---
 
