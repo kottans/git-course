@@ -11,26 +11,30 @@ and tasks per se are tiny.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Why mastering this?](#why-mastering-this)
-- [Intro to problem solving](#intro-to-problem-solving)
-- [Targets](#targets)
-- [Learn and Do](#learn-and-do)
-  - [Issues](#issues)
-  - [Discussion](#discussion)
-  - [Forking](#forking)
-  - [Pull request](#pull-request)
-  - [Code review](#code-review)
-  - [Code conflict resolution](#code-conflict-resolution)
-  - [Approve and Merge Pull Request](#approve-and-merge-pull-request)
-  - [Draft pull request](#draft-pull-request)
-- [When completed](#when-completed)
-- [Extras](#extras)
-  - [Gist](#gist)
+- [A. Why mastering this?](#a-why-mastering-this)
+- [B. Intro to problem solving](#b-intro-to-problem-solving)
+  - [B1. Problem identification](#b1-problem-identification)
+  - [B2. Solution suggestion](#b2-solution-suggestion)
+  - [B3. Solution alignment and approval](#b3-solution-alignment-and-approval)
+  - [B4. Putting solution into life](#b4-putting-solution-into-life)
+- [C. Targets](#c-targets)
+- [D. Learn and Do](#d-learn-and-do)
+  - [D1. Issues](#d1-issues)
+  - [D2. Discussion](#d2-discussion)
+  - [D3. Forking](#d3-forking)
+  - [D4. Pull request](#d4-pull-request)
+  - [D5. Code review](#d5-code-review)
+  - [D6. Code conflict resolution](#d6-code-conflict-resolution)
+  - [D7. Approve and Merge Pull Request](#d7-approve-and-merge-pull-request)
+  - [D8. Draft pull request](#d8-draft-pull-request)
+- [E. When completed](#e-when-completed)
+- [F. Extras](#f-extras)
+  - [F1. Gist](#f1-gist)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
 
-## Why mastering this?
+## A. Why mastering this?
 
 Git is not only about storing versioned code but is also
 about communication. There are some communication patterns
@@ -44,7 +48,7 @@ The collaboration flow highlighted in this module comprises:
 - have code reviewed, change requests served and/or approved
 - merge into development or master branch
 
-## Intro to problem solving
+## B. Intro to problem solving
 
 A problem solving workflow, in general, comprises:
 1. Problem identification
@@ -54,7 +58,7 @@ A problem solving workflow, in general, comprises:
 
 In software development the above maps as follows:
 
-**Problem identification**
+### B1. Problem identification
 
 A problem can be e.g.:
 - lack of a feature
@@ -68,7 +72,7 @@ Issue details can contain Steps to Reproduce and environment
 details (bug),
 suggestions on the solution (feature or improvement request).
 
-**Solution suggestion**
+### B2. Solution suggestion
 
 Once a problem is documented as an issue it can be assigned
 to someone. Issue reporter can assign himself or herself,
@@ -78,7 +82,7 @@ Solution suggestion itself is a commit of code (or text) that
 solves the problem (normally in a feature branch) submitted
 with a Pull Request (Merge Rerquest in other cloud VCS).
 
-**Solution alignment and approval**
+### B3. Solution alignment and approval
 
 Solution alignment is a process where stakeholders or peers,
 or supervisors have an opportunity to conduct code review 
@@ -98,7 +102,7 @@ decision makers confirm that the solution is appropriate.
 Normally, review from at least two peers is required. This
 also depends on the team conventions. 
 
-**Putting solution into life**
+### B4. Putting solution into life
 
 Putting solution into life means it becomes a part
 of the code base by merging into (or rebasing onto) `master`
@@ -108,7 +112,7 @@ This is normally done by one of reviewers or by a team lead
 once there are no non-resolved change requests and
 required number of approvals (e.g. two) are obtained.
 
-## Targets
+## C. Targets
 
 GitHub offers Issues and Pull Request mechanics.
 
@@ -132,9 +136,9 @@ To feel safe we shall play around with text. Actually,
 MarkDown is a type of code, just like HTML,
 as it gets interpreted to render a nice document view.
 
-## Learn and Do
+## D. Learn and Do
 
-### Issues
+### D1. Issues
 
 Note that it is good to start an issue title with a proper verb
 (like we do for commits):
@@ -189,7 +193,7 @@ for example.
 And remember, MarkDown is here to make your issue description easier
 to read.
 
-### Discussion
+### D2. Discussion
 
 **Do**
 
@@ -203,7 +207,7 @@ for an example.
 
 You're done.
 
-### Forking
+### D3. Forking
 
 You make a fork of a repo when you
 - do not have rights to push directly to a repo
@@ -231,7 +235,7 @@ pull requests.
 
 You need this skill in order to complete the following task.
 
-### Pull request
+### D4. Pull request
 
 Pull request is a device to propose code changes (consider `.md` file
 is some code as well, like HTML), have a spare pair of eyes to look
@@ -308,7 +312,7 @@ contribution guidelines.
 Check this [example 1](https://github.com/kottans/frontend/blob/master/CONTRIBUTING.md),
 and this [example 2](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md).
 
-### Code review
+### D5. Code review
 
 It is a good practice to conduct a code review to make sure
 a PR introduces useful, bugless :smirk: code.
@@ -338,7 +342,7 @@ or a series of comments to the code with a Change Request.
 - Feel free requesting changes (e.g. fix a typo or formatting, add a
   link etc)
 
-### Code conflict resolution
+### D6. Code conflict resolution
 
 At any stage of PR the author may face a code conflict.
 GitHub will warn you. This section is intended
@@ -359,7 +363,7 @@ in many cases.
 - Pass [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts) -
   a 10 steps tutorial
 
-### Approve and Merge Pull Request
+### D7. Approve and Merge Pull Request
 
 Once a PR is approved (e.g. by 2 code reviewers) the code proposal
 can be merged into master.
@@ -402,7 +406,7 @@ a couple of clear words. Check
 [this](https://github.com/kottans/git-course/pull/2#issuecomment-526934953)
 out for example.
 
-### Draft pull request
+### D8. Draft pull request
 
 Draft Pull Requests are the same as normal Pull Requests.
 The only difference is that a _draft_ Pull Request cannot be merged into
@@ -416,7 +420,7 @@ code, e.g. when you get stuck and need help or an advice.
 
 [Introducing Draft Pull Requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
 
-## When completed
+## E. When completed
 
 You did a lot and greatly improved your git and collaboration skills!
 
@@ -442,7 +446,7 @@ This would help to see only notifications you want.
 Meanwhile you may want to become a 
 [Git Ninja](./git-ninja.md).
 
-## Extras
+## F. Extras
 
 - [Creating a permanent link to a code snippet](https://help.github.com/en/articles/creating-a-permanent-link-to-a-code-snippet)
   (e.g. for cross-referencing in an issue on related topic)
@@ -450,7 +454,7 @@ Meanwhile you may want to become a
   (e.g. for a bug report)
 - [GitHub Learning Lab - practical courses](https://lab.github.com/courses)
 
-### Gist
+### F1. Gist
 
 Gist is a tiny repo, and normally used to keep simple, often
 single file code snippets or docs, that do not deserve to be
