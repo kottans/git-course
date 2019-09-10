@@ -17,6 +17,7 @@ course and is intended to complement any courses for beginners.
 
 - [Course structure](#course-structure)
 - [Learning hints](#learning-hints)
+- [Extras](#extras)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
@@ -65,6 +66,14 @@ Employ Google Translate for textual materials.
 
 </p>
 </details>
+
+## Extras
+
+The video below offers an intro to the course (RUS).
+
+[![youtube-course-intro](./img/youtube-intro.png)](https://youtu.be/jmb5YsACP5U)
+
+---
 
 If you find any topic not sufficiently disclosed just let us know by adding
 [an issue](https://github.com/kottans/git-course/issues) with a proposal.
