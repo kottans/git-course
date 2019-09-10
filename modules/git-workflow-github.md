@@ -482,6 +482,7 @@ Proceed to [Git workshop](./git-workshop.md)
 
 [badge-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-git-yellow.svg
 [kottans-git]: https://github.com/kottans/git-course
+[mock-repo]: https://github.com/kottans/mock-repo
 
 [badge-mit]: https://img.shields.io/badge/License-MIT-blue.svg
 [license]: https://github.com/kottans/git-course/blob/master/LICENSE.md
