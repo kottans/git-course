@@ -13,6 +13,7 @@
 - [What to know to enroll?](#what-to-know-to-enroll)
 - [Having workspace properly set up](#having-workspace-properly-set-up)
 - [How to enroll?](#how-to-enroll)
+- [Model workshop plan](#model-workshop-plan)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
@@ -23,7 +24,7 @@ The workshop is held offline and aimed at putting hands on
 practical work to support participants' learnings.
 
 Participants are required to have learned Linux CLI and Git skills 
-from the this course modules to enroll in the workshop.
+from this course modules to enroll in the workshop.
 
 ## Workshop targets
 
@@ -74,6 +75,46 @@ developer's Git environment.
 ## How to enroll?
 
 TBD
+
+## Model workshop plan
+
+**Preamble**
+1. Get introduced to each other
+1. Workshop targets
+1. Check dev environment
+1. Agree on Git flow conventions, branch naming and commit messaging
+1. Form sub-teams for shorter mutual code review cycle
+
+**Exercise 1.** Mess
+1. Each contributor adds changes to a personalized file 
+   via personalized branch and opens a PR
+1. PRs merged into base branch
+1. Observe history mess
+
+**Exercise 2.** Easy and Nice
+1. Each contributor adds changes to personalized files 
+   via personalized branch (three times: to file 1, to file 2,
+   to file 1 again) 
+1. Leader introduces changes
+1. Each contributor in a round-robin:
+   - updates their branch using rebase strategy
+   - reorders and squashes their own commits
+   - opens a PR
+   - waits for a peer to request changes
+   - updates per request
+   - waits for a peer to approve changes
+   - gets PR merge-squashed onto the base branch
+
+**Exercise 3.** Oh, no! My code is better
+1. Each contributor adds changes to a shared file 
+   via personalized branch
+1. Leader introduces changes to the shared file
+1. Each contributor in a round-robin:
+   - updates their branch using rebase strategy
+   - resolves a conflict
+   - opens a PR
+   - waits for a peer to approve changes
+   - gets PR merge-squashed onto the base branch
 
 ---
 

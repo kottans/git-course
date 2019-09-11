@@ -67,7 +67,10 @@ Git commands: `fetch`
    - Remotes: Push & Pull -- Git Remotes
 3. Markdown is a simple syntax to create nicely formatted 
    technical documentation with ease. It is support by GitHub,
-   GitLab and Bitbucket. Check and bookmark for your future reference
+   GitLab and Bitbucket.
+   Complete [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+   interactive tutorial.
+   Check and bookmark for your future reference
    [MarkDown Guide](https://guides.github.com/features/mastering-markdown/)
 
 :gift: Did you know, Trello, Slack, Telegram and many other tools
@@ -121,9 +124,7 @@ will ask you for some help in this module.
 
 Where to communicate? In a chat you came here from :)
 
----
-
-Proceed to [Contributing with Git](./git-collaboration.md)
+Once done proceed to [Contributing with Git](./git-collaboration.md)
 
 ---
 

@@ -86,9 +86,7 @@ will ask you for some help in this module.
 
 Where to communicate? In a chat you come here from :)
 
----
-
-Proceed to [Git workflow and GitHub](./git-workflow-github.md)
+Once done proceed to [Git workflow and GitHub](./git-workflow-github.md)
 
 ---
 

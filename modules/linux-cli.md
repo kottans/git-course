@@ -15,6 +15,7 @@
 - [Learn and Practise](#learn-and-practise)
   - [Extra materials](#extra-materials)
 - [Practice](#practice)
+- [When completed](#when-completed)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
@@ -157,7 +158,7 @@ directory you called it at.
 ![windows-git-bash](./git-bash-context-menu.png)
 </details>
 
----
+## When completed
 
 Proceed to [Git basics](./git-basics.md)
 

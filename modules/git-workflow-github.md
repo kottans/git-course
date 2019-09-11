@@ -30,6 +30,7 @@ and tasks per se are tiny.
 - [E. When completed](#e-when-completed)
 - [F. Extras](#f-extras)
   - [F1. Gist](#f1-gist)
+- [When completed](#when-completed)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
@@ -472,7 +473,7 @@ a project and need no much collaboration via e.g. Pull Requests.
 - Type a couple of MarkDown lines and save
 - You may also delete this test gist
 
----
+## When completed
 
 Proceed to [Git workshop](./git-workshop.md)
 
