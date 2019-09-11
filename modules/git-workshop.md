@@ -78,7 +78,7 @@ TBD
 
 ## Model workshop plan
 
-**Preamble**
+**Briefing**
 1. Get introduced to each other
 1. Workshop targets
 1. Check dev environment
@@ -116,7 +116,14 @@ TBD
    - waits for a peer to approve changes
    - gets PR merge-squashed onto the base branch
 
+**Retrospection**
+1. Participants' reflections
+1. Feedback collection, stars and sparkles
+1. FOSS contribution opportunities + Hacktoberfest/Swag
+
 ---
+
+[Kottans git course sandbox](https://github.com/kottans/git-workshop-sandbox)
 
 [Course contents](../README.md)
 
