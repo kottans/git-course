@@ -64,13 +64,13 @@ December 1989[[2]][5] by [Guido van Rossum][6] at [CWI][7]
 in [the Netherlands][8] as a **SUSSESSOR**/successor to [ABC][9] capable 
 of [exception handling][10] and **INTERAKTING**/interfacing with the 
 [Amoeba operating **SISTEM**][11].[[3]][12] Van Rossum 
-is Python's principal **AUTOR**/autor, and his continuing 
-central role in deciding the direction of **PITHON** 
-is reflected in the title given to him by the **PITON** 
+is Python's principal **AUTOR**/author, and his continuing 
+central role in deciding the direction of **PITHON**/Python
+is reflected in the title given to him by the **PITON**/Python
 community, [_Benevolent Dictator for Life_ (BDFL)][13].[[4]][14][[5]][15] 
 Python was named for the BBC TV show [_Monty Python's Flying **Zyrkus**/Circus][16]_.[[6]][17]
 
-Python 2.0 was released on October 16, 2000, with **MANI**/mani major 
+Python 2.0 was released on October 16, 2000, with **MANI**/many major 
 new features, including a cycle-detecting [garbage **KOLLEKTOR**][18] 
 (in addition to [reference counting][19]) for [memory **MENEGMENT**][20] 
 and support for [Unicode][21]. However, the most important change **WOZ** 
