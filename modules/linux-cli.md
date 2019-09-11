@@ -132,6 +132,12 @@ Dive into the extra materials below.
 ### Extra materials
 
 - [Linux utilities that every developer should know](https://blog.webbylab.com/linux_utilities_for_every_developer/)
+- Anna Williford's
+  - [Linux workshop synopsis](https://annawilliford.github.io/2016-04-02-UTA/workshop/Linux/Anya_LinuxLesson.html)
+  - Linux Bash Shell Cheat Sheet:
+    - [PDF](https://annawilliford.github.io/2016-04-02-UTA/workshop/Linux/bash_cheat_sheet.pdf)
+    - [Online preview](https://github.com/AnnaWilliford/2016-04-02-UTA/blob/gh-pages/workshop/Linux/bash_cheat_sheet.pdf)
+- [A Guide to 100 (ish) Useful Unix Commands](http://oliverelliott.org/article/computing/ref_unix/)
 - [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
 - RUS: [Быстрое изучение Bash: 30 легких команд для новичков](https://proglib.io/p/bash-commands-for-beginners/)
 - RUS: [Конспект по bash, ч.1](https://proglib.io/p/bash-notes/)
@@ -139,6 +145,11 @@ Dive into the extra materials below.
 - RUS: [Команды bash, о которых вы, возможно, не знали](https://proglib.io/p/hidden-features-bash/)
 - [Command Line Essentials: Git Bash for Windows](https://www.udemy.com/git-bash/)
 - RUS: [Основы командной строки](https://ru.hexlet.io/courses/cli-basics)
+
+**Advanced**
+- [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/index.html)
+- [A video series for web developers on learning a modern command line workflow with ZSH, Z and related tools](https://commandlinepoweruser.com/)
+- [The curl guide to HTTP requests](https://flaviocopes.com/http-curl/)
 
 ## Practice
 
@@ -151,7 +162,7 @@ You may practice Linux CLI on your Windows machine
 using Git Bash that gets installed along with
 [Git](https://git-scm.com/downloads).
 
-To open Git Bahs right click anywhere in file explorer and select
+To open Git Bash right click anywhere in file explorer and select
 `Git Bash here` option. Bash will get opened in context of the
 directory you called it at.
 
