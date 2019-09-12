@@ -110,14 +110,6 @@ cd -
    * finding files and text
    * processes
 
-1. [Learn the Command Line (5 modules)](https://www.codecademy.com/learn/learn-the-command-line)
-
-    **Note:** Completion of free content (Interactive Lessons) 
-    is the required minimum, but Quizzes and Freeform Projects 
-    should also be available via 7-day trial of Codecademy.
-    Do them if you can, it's a great practice to cement your skills
-    gained from the course above.
-
 1. [Learning the Shell (10 modules)](http://linuxcommand.org/lc3_learning_the_shell.php)
    greatly supplements the previous courses offering a deeper
    insight into Linux Shell. Make sure to practise every command from
