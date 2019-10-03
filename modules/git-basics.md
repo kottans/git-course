@@ -117,6 +117,8 @@ feel most comfortable with. Try sticking to English though.
 
 ## When completed
 
+Upload your changes from local repository to remote (using ```git push```).
+
 When done let others know you have passed this module.
 
 This lets other know your progress and probably someone
