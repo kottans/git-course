@@ -231,6 +231,7 @@ pull requests.
 - [Forking projects](https://guides.github.com/activities/forking/)
 - [Fork a repo](https://help.github.com/en/articles/fork-a-repo) - freely experiment with changes without affecting the original project
 - [Sync a repo](https://help.github.com/en/articles/syncing-a-fork) - keep a fork of the repository up-to-date with the upstream repository
+
 **Do**
 
 [Fork a repo practice](https://help.github.com/en/articles/fork-a-repo)
