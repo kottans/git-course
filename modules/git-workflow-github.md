@@ -248,6 +248,7 @@ at (doing a code review), and approve a good solution.
 
 - [Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request)
 - [Pull Request Tutorial](https://yangsu.github.io/pull-request-tutorial/)
+- [Contributing to a 3rd party repo for beginners](https://gist.github.com/OleksiyRudenko/236c3046fbba028e0555fa847dae7001)
 
 **Do**
 
@@ -272,14 +273,17 @@ at (doing a code review), and approve a good solution.
   - Describe the targets in the PR body so that readers can understand
     in more details what the PR is about
   - If your PR resolves an issue just add `Resolves #3` somewhere 
-    in the comment (`3`
-    is a number of an issue you can see beside its title). GitHub will
-    bind your PR to that issue and the issue will get closed
+    in the comment (`3` is a number of an issue you can see beside its title). 
+    GitHub will bind your PR to that issue and the issue will get closed
     (as resolved) once your PR is merged.
 - Draw attention
   - PR created from a fork is bound to the original repo by GitHub,
     so navigate to the original repo, Pull Requests and open a PR
     you've opened
+&nbsp; &nbsp; You may not assign reviewers if you're not an owner of the repo
+&nbsp; &nbsp; or not a part of organization. Try identifying the owner or repo
+&nbsp; &nbsp; collaborators and mention them in a comment by their names.
+&nbsp; &nbsp; If unable to identify relevant persons then just skip this step.
   - There is a PR management section on the right side of the PR.
     Click **Reviewers** and assign two or three of your peers.
 
