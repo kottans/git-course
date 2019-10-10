@@ -174,7 +174,7 @@ a feature.
 _Option 4._ Any other bug, need of improvement or lack of a feature.
 
 Cannot invent a problem? No problem. Check this 
-[document full of typos](./github-typos.md).
+[document full of typos](https://github.com/kottans/git-workshop-sandbox/blob/master/github-typos.md).
 Or just ask your peers for support and ideas.
 
 Simple issues (like typos) can be resolved with a single commit and
