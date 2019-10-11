@@ -279,15 +279,14 @@ at (doing a code review), and approve a good solution.
 - Draw attention
   - PR created from a fork is bound to the original repo by GitHub,
     so navigate to the original repo, Pull Requests and open a PR
-    you've opened  
-```
-    You may not assign reviewers if you're not an owner of the repo
-    or not a part of organization. Try identifying the owner or repo
-    collaborators and mention them in a comment by their names.
-    If unable to identify relevant persons then just skip this step.
-```
+    you've opened.
   - There is a PR management section on the right side of the PR.
     Click **Reviewers** and assign two or three of your peers.
+
+>You may not assign reviewers if you're not an owner of the repo
+>or not a part of organization. Try identifying the owner or repo
+>collaborators and mention them in a comment by their names.
+>If unable to identify relevant persons then just skip this step.
 
 **Alternative**
 
