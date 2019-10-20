@@ -142,7 +142,7 @@ Watch one of the past workshops footage (narrated in Russian).
 [Course contents](../README.md)
 
 [kottans-git-ws]: https://youtu.be/cJf5c8bwWME
-[kottans-git-ws-img]: http://img.youtube.com/vi/cJf5c8bwWME/default.jpg
+[kottans-git-ws-img]: http://img.youtube.com/vi/cJf5c8bwWME/mqdefault.jpg
 
 [badge-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-git-yellow.svg
 [kottans-git]: https://github.com/kottans/git-course
