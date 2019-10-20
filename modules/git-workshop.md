@@ -14,6 +14,7 @@
 - [Having workspace properly set up](#having-workspace-properly-set-up)
 - [How to enroll?](#how-to-enroll)
 - [Model workshop plan](#model-workshop-plan)
+- [Past workshop footage](#past-workshop-footage)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
@@ -74,7 +75,12 @@ developer's Git environment.
 
 ## How to enroll?
 
-TBD
+Easy.
+
+1. Make sure you know the theory and have some practice with `git`. Basically, you
+   are expected to meet the requirements above.
+1. Join related [Kottans Git chat on Telegram](https://t.me/kottans_git),
+   say 'Hello' and tell that you feel ready for the workshop.
 
 ## Model workshop plan
 
@@ -121,11 +127,22 @@ TBD
 1. Feedback collection, stars and sparkles
 1. FOSS contribution opportunities + Hacktoberfest/Swag
 
+## Past workshop footage
+
+Watch one of the past workshops footage (narrated in Russian).
+
+[Git Workshop - Oleksiy Rudenko][kottans-git-ws]
+
+[![Git Workshop - Oleksiy Rudenko][kottans-git-ws-img]][kottans-git-ws]
+
 ---
 
 [Kottans git course sandbox](https://github.com/kottans/git-workshop-sandbox)
 
 [Course contents](../README.md)
+
+[kottans-git-ws]: https://youtu.be/cJf5c8bwWME
+[kottans-git-ws-img]: http://img.youtube.com/vi/cJf5c8bwWME/default.jpg
 
 [badge-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-git-yellow.svg
 [kottans-git]: https://github.com/kottans/git-course
