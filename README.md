@@ -2,6 +2,8 @@
 [![MIT Licensed][badge-mit]][license]
 ![Entry level: beginner][badge-beginner]
 
+<img src="./img/git-banner-1020x175.png" style="max-width: 100%; margin-left: auto; margin-right: auto;" />
+
 # Git Course
 
 This course is aimed at helping beginners in gaining basic yet minimally
