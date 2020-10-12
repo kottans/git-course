@@ -13,6 +13,8 @@ The course is based on the materials from
 [kottans/frontend](https://github.com/kottans/frontend/blob/master/contents.md)
 course and is intended to complement any courses for beginners.
 
+Make sure you have [git](https://git-scm.com/downloads) installed on your machine.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
