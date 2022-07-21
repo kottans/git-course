@@ -68,7 +68,7 @@ Git commands: `fetch`
 3. Markdown is a simple syntax to create nicely formatted 
    technical documentation with ease. It is support by GitHub,
    GitLab and Bitbucket.
-   Complete [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+   Complete [Communicating using Markdown](https://github.com/skills/communicate-using-markdown)
    interactive tutorial.
    Check and bookmark for your future reference
    [MarkDown Guide](https://guides.github.com/features/mastering-markdown/)
